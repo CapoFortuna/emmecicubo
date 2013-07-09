@@ -15,6 +15,7 @@ WorldBorder -> http://dev.bukkit.org/bukkit-plugins/worldborder/
 WorldEdit -> http://dev.bukkit.org/bukkit-plugins/worldedit/
 (drop dai mob) CookieMonster (non ha il supporto a HyperEconomy) -> http://dev.bukkit.org/bukkit-plugins/cookiemonster/
 (log e rb) CoreProtect 2 / Prism
+(gestione acquisti) DonatorExpress -> http://dev.bukkit.org/bukkit-plugins/donator-express/
 
 ----------------------
 Supplementari:
@@ -27,4 +28,3 @@ Ban Management -> http://dev.bukkit.org/bukkit-plugins/ban-management/
 Shadow Quests -> http://dev.bukkit.org/bukkit-plugins/shadow-quests/
 Citizens (richiesto da ShadowQuest) -> http://dev.bukkit.org/bukkit-plugins/citizens/
 DisableRespawnScreen -> http://dev.bukkit.org/bukkit-plugins/disable-respawn-screen/
-DonatorExpress -> http://dev.bukkit.org/bukkit-plugins/donator-express/
