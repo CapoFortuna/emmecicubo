@@ -1,18 +1,19 @@
 Fondamentali:
 
-(gestione multimondi) MCore -> http://dev.bukkit.org/bukkit-plugins/mcore/
-(faction) Factions (richiede MCore) -> http://dev.bukkit.org/bukkit-plugins/factions/
-(portali tra mondi) CreativeGate (richiede MCore) -> http://dev.bukkit.org/bukkit-plugins/creativegates/
+(gestione multimondi) MCore (richiesto da Factions, CreativeGate) -> http://dev.bukkit.org/bukkit-plugins/mcore/
+(faction) Factions -> http://dev.bukkit.org/bukkit-plugins/factions/
+(portali tra mondi) CreativeGate -> http://dev.bukkit.org/bukkit-plugins/creativegates/
 (chat) MassiveChat (NON DISPONIBILE!!!)
 (comandi base) JCommand -> http://dev.bukkit.org/bukkit-plugins/jcommands/
-(spoutcraft) SpoutPlugin
-(gestione camere) SimpleRegionMarket (richiede Vault, WE, WG) -> http://dev.bukkit.org/bukkit-plugins/simple-region-market/
+(spoutcraft) SpoutPlugin -> http://get.spout.org
+(gestione camere) SimpleRegionMarket -> http://dev.bukkit.org/bukkit-plugins/simple-region-market/
 (permessi) PEx/xperms
-(economia) Vault -> http://dev.bukkit.org/bukkit-plugins/vault/
+(economia) Vault (richiesto da SimpleRegionMarket, Hyperconomy)-> http://dev.bukkit.org/bukkit-plugins/vault/
 (economia) HyperConomy -> http://dev.bukkit.org/bukkit-plugins/hyperconomy/
 (skill) SwornRPG -> http://dev.bukkit.org/bukkit-plugins/swornrpg/
 WorldBorder -> http://dev.bukkit.org/bukkit-plugins/worldborder/
-WorldEdit -> http://dev.bukkit.org/bukkit-plugins/worldedit/
+WorldEdit (richiesto da SimpleRegionMarket)-> http://dev.bukkit.org/bukkit-plugins/worldedit/
+WorldGuard (richiesto da SimpleRegionMarket) -> http://dev.bukkit.org/bukkit-plugins/worldguard/
 (drop dai mob) CookieMonster (non ha il supporto a HyperEconomy) -> http://dev.bukkit.org/bukkit-plugins/cookiemonster/
 (log e rb) CoreProtect 2 / Prism
 (gestione acquisti) DonatorExpress -> http://dev.bukkit.org/bukkit-plugins/donator-express/
@@ -23,8 +24,8 @@ Supplementari:
 ChestCommands -> http://dev.bukkit.org/bukkit-plugins/chest-commands/
 ChestShop -> http://dev.bukkit.org/bukkit-plugins/chestshop/
 BackPacks -> http://dev.bukkit.org/bukkit-plugins/backpacks/
-MobArena
-DynMap
+MobArena -> http://dev.bukkit.org/bukkit-plugins/mobarena/
+DynMap -> http://dev.bukkit.org/bukkit-plugins/dynmap/
 Ban Management -> http://dev.bukkit.org/bukkit-plugins/ban-management/
 Shadow Quests -> http://dev.bukkit.org/bukkit-plugins/shadow-quests/
 Citizens (richiesto da ShadowQuest) -> http://dev.bukkit.org/bukkit-plugins/citizens/
