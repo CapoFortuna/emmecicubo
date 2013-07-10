@@ -1,5 +1,6 @@
-emmecicubo
+Emme Ci Cubo ( MC^3)
 ==========
 Verrà suddivisa in 3 server: un bukkit (main) normale 1.6.1 e 2 server HungerGames di cui uno avrà la scelta di vere armi (pistole, bazooka e altro) in base a vari kit e l'altro avrà invece a rotazione mappe molto semplici e mappe complesse con casse e nascondigli.
 Ovviamente TUTTI i server saranno su base SpoutCraft, lo slogan principale di MC3 sarà incentrato sul fatto che si tratta di una community completamente AntiCheat e che punta all'originalità.
-
+--------------
+per evitare di perdere tutti i player che loggano da SP e non sanno leggere "per giocare su questo server serve Spoutcraft" risolveremo rendendo spoutcraft obbligatorio "solo" in tutti i mondi eccetto quello dello spawn, che sarà un minimondo (con estensione molto piccola, un raggio di circa 200/300 cubi) di cui si occuperà solamente il nostro favoloso architetto iRad che per l'occasione si reinventerà urbanista. In tale mondo vige un divieto: non sarà possibile interagire con nessuna cassa per evitare sdoppiaggi con i client moddati e altre cose simili. Sparse per la città ci saranno varie guide che riprenderanno in forma abbreviata quelle presenti sul sito e magari messe in posti che ne richiamino la funzione (ad esempio la guida all'economia dentro un centro commerciale e per le fazioni dentro un'arena), saranno ovviamente solo edifici a scopo decorativo senza alcun altro fine in modo da far vedere agli imbecilli cosa si perdono se non scaricano spoutcraft ;)
